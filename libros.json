@@ -1,0 +1,38 @@
+{
+    "001": {
+        "Título": "Algebra Lineal",
+        "Autor": "Baldor",
+        "Categoría": "Matemáticas y Ciencias naturales",
+        "ISBN": "001"
+    },
+    "003": {
+        "Título": "La Iliada",
+        "Autor": "Homero",
+        "Categoría": "Arte y literatura",
+        "ISBN": "003"
+    },
+    "002": {
+        "Título": "La Celula",
+        "Autor": "Geoffrey M. Cooper",
+        "Categoría": "Matemáticas y Ciencias naturales",
+        "ISBN": "002"
+    },
+    "004": {
+        "Título": "Cien años de soledad",
+        "Autor": "Gabriel García Márquez",
+        "Categoría": "Arte y literatura",
+        "ISBN": "004"
+    },
+    "005": {
+        "Título": "Crítica de la razón pura",
+        "Autor": "Emmanuel Kant",
+        "Categoría": "Filología y psicología",
+        "ISBN": "005"
+    },
+    "006": {
+        "Título": "Historia de Roma",
+        "Autor": "Tácito, Cayo Cornelio",
+        "Categoría": "Historia y Geografía",
+        "ISBN": "006"
+    }
+}

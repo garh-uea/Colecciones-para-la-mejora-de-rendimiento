@@ -1,0 +1,20 @@
+[
+    {
+        "Usuario": "1234567890",
+        "Libro": {
+            "Título": "La Celula",
+            "Autor": "Geoffrey M. Cooper",
+            "Categoría": "Matemáticas y Ciencias naturales",
+            "ISBN": "002"
+        }
+    },
+    {
+        "Usuario": "1301234098",
+        "Libro": {
+            "Título": "Historia de Roma",
+            "Autor": "Tácito, Cayo Cornelio",
+            "Categoría": "Historia y Geografía",
+            "ISBN": "006"
+        }
+    }
+]

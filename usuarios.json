@@ -1,0 +1,31 @@
+{
+    "1301234098": {
+        "Nombre": "Gustavo Rodríguez",
+        "ID": "1301234098",
+        "Libros Prestados": [
+            {
+                "Título": "Historia de Roma",
+                "Autor": "Tácito, Cayo Cornelio",
+                "Categoría": "Historia y Geografía",
+                "ISBN": "006"
+            }
+        ]
+    },
+    "1234567890": {
+        "Nombre": "Mariuxi Zambrano",
+        "ID": "1234567890",
+        "Libros Prestados": [
+            {
+                "Título": "La Celula",
+                "Autor": "Geoffrey M. Cooper",
+                "Categoría": "Matemáticas y Ciencias naturales",
+                "ISBN": "002"
+            }
+        ]
+    },
+    "001": {
+        "Nombre": "Carlos",
+        "ID": "001",
+        "Libros Prestados": []
+    }
+}
