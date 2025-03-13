@@ -16,5 +16,14 @@
             "Categoría": "Historia y Geografía",
             "ISBN": "006"
         }
+    },
+    {
+        "Usuario": "1311011654",
+        "Libro": {
+            "Título": "Cien años de soledad",
+            "Autor": "Gabriel García Márquez",
+            "Categoría": "Arte y literatura",
+            "ISBN": "004"
+        }
     }
 ]

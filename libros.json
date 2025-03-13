@@ -34,5 +34,11 @@
         "Autor": "Tácito, Cayo Cornelio",
         "Categoría": "Historia y Geografía",
         "ISBN": "006"
+    },
+    "007": {
+        "Título": "Historia del tiempo",
+        "Autor": "Stephen Hawking",
+        "Categoría": "Tecnología y ciencias prácticas",
+        "ISBN": "007"
     }
 }

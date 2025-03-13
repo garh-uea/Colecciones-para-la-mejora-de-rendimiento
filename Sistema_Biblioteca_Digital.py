@@ -124,8 +124,8 @@ class Biblioteca:
         print("Error: El usuario no tiene prestado ese libro.")
     
     def buscar_libros(self):
-        termino = input("Ingrese título, autor o categoría del libro a buscar: ").lower()
-        resultados = [libro for libro in self.libros.values() if termino in libro["Título"].lower() or termino in libro["Autor"].lower() or termino in libro["Categoría"].lower()]
+        busqueda = input("Ingrese título, autor o categoría del libro a buscar: ").lower()
+        resultados = [libro for libro in self.libros.values() if busqueda in libro["Título"].lower() or busqueda in libro["Autor"].lower() or busqueda in libro["Categoría"].lower()]
         self.mostrar_tabla(resultados)
 
     def mostrar_todos_libros(self):

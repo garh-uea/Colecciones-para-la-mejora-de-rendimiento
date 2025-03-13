@@ -27,5 +27,17 @@
         "Nombre": "Carlos",
         "ID": "001",
         "Libros Prestados": []
+    },
+    "1311011654": {
+        "Nombre": "Carlos Zambrano",
+        "ID": "1311011654",
+        "Libros Prestados": [
+            {
+                "Título": "Cien años de soledad",
+                "Autor": "Gabriel García Márquez",
+                "Categoría": "Arte y literatura",
+                "ISBN": "004"
+            }
+        ]
     }
 }
